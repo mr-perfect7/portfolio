@@ -440,7 +440,7 @@ nav svg{
 /* ------------------media queries-------------------- */
 @media only screen and (max-width:600px) {
     #header{
-    background-image: url("images/bg-me1-small.png");
+    background-image: url("images/bg-me-3.png");
     }
     .header-text{
         margin-top: 100%;
