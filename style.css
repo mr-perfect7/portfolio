@@ -76,7 +76,7 @@ nav{
 
 nav.scrolled{
      background-color: black;  
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.4);
+/*     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.4); */
     padding: 8px 10%;  
     transition: all 0.3s ease;   
 
